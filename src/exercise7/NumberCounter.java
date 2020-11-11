@@ -24,7 +24,7 @@ public class NumberCounter {
     }
 
     public static int countNumberOccurrences(int number, int[] numbers) {
-        // Implement method
+        // 
         return 0;
     }
 }
